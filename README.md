@@ -2,7 +2,8 @@
 
 ## Objetivo:
 Analisar se as avaliaçoes estavam boas e os gaps dos comentários negativos. :bar_chart:
-Produto: livro - Como fazer amigos e influenciar pessoas 
+
+Produto: livro - Como fazer amigos e influenciar pessoas
 
 # Para essa Análise:
 Utilizei bibliotecas do Python
